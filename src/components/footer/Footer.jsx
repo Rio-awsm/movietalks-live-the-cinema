@@ -22,12 +22,11 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur.
+          Movie Talks is a all in one entertaiment based website where you can find movies and tv shows of various genres, types, language and categories.
+          find the best suitable entertaiment package for you and enjoy the evening with a bucket full of popcorn and happiness.
+        </div>
+        <div className="infoText">
+          made with ❤️ by Supriyo Saha
         </div>
         <div className="socialIcons">
           <span className="icon">
